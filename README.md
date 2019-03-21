@@ -1,1 +1,2 @@
-# MNIST-tensorflow
+# MNIST
+Using Tensorflow, CNN and Keras.
